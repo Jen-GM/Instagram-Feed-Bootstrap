@@ -1,0 +1,43 @@
+.navBar{
+    border-bottom:black;
+}
+.cam-loc button, .form-control{
+    border-color: black;
+}
+.mediumBar button:hover{
+    background-color: rgba(132, 132, 132, 0.854);
+}
+
+div.feed{
+    max-width: 600px;
+    margin: auto;
+}
+
+div.feed img{
+    width: 100%;
+    object-fit: fill;
+}
+
+.upper{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.upper h2{
+    padding-left: 5px;
+}
+
+div.upper span{
+    margin-top: 4%;
+    color: grey;
+}
+
+div.feed p{
+    padding: 12px;
+}
+    
+#Ph{
+    background-color: white;
+}
+
